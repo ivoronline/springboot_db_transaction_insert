@@ -3,7 +3,6 @@ package com.ivoronline.springboot_db_transaction_insert.service;
 import com.ivoronline.springboot_db_transaction_insert.repository.MyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import java.sql.Connection;
 
 @Service
 public class MyService {
